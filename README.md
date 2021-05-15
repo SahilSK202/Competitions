@@ -20,6 +20,10 @@ This repository is Dashboard of all the programs / case studies / Projects / Com
 * [ TODO - An API with GraphQL MongoDB Nodejs ](https://github.com/SahilSK202/TODO)
 
 
+## Data Structures Using C
+* [ Implementation of all Data Structures in C  ](https://github.com/SahilSK202/Image-Processing)
+
+
 ## Digital Image Processing
 * [ Basics of DIP - (Pillow & OpenCV) ](https://github.com/SahilSK202/Image-Processing)
 
