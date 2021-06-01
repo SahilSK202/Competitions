@@ -21,7 +21,7 @@ This repository is Dashboard of all the programs / case studies / Projects / Com
 
 
 ## Data Structures Using C
-* [ Implementation of all Data Structures in C  ](https://github.com/SahilSK202/Image-Processing)
+* [ Implementation of all Data Structures in C  ](https://github.com/SahilSK202/Data_Structures_using_C)
 
 
 ## Digital Image Processing
