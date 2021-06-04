@@ -10,11 +10,6 @@ This repository is Dashboard of all the programs / case studies / Projects / Com
 * [ Crop Recommendation System - End To End ML Project ](https://github.com/SahilSK202/Crop-Recommendation-System)
 
 
-## Competitive Programming
-* [ Virus Outbreak (c++) ](https://github.com/SahilSK202/Virus_Outbreak_cp)
-* [ Chess Valid Next Position (python) ](https://github.com/SahilSK202/Chess_Valid_Next_Positon_cp)
-
-
 ## Web Development
 * [ Expense Manager - Web App (Academic Project) ](https://github.com/SahilSK202/Expense-Manager)
 * [ TODO - An API with GraphQL MongoDB Nodejs ](https://github.com/SahilSK202/TODO)
@@ -26,5 +21,11 @@ This repository is Dashboard of all the programs / case studies / Projects / Com
 
 ## Digital Image Processing
 * [ Basics of DIP - (Pillow & OpenCV) ](https://github.com/SahilSK202/Image-Processing)
+
+
+## Competitive Programming
+* [ Virus Outbreak (c++) ](https://github.com/SahilSK202/Virus_Outbreak_cp)
+* [ Chess Valid Next Position (python) ](https://github.com/SahilSK202/Chess_Valid_Next_Positon_cp)
+
 
 
