@@ -16,7 +16,7 @@ This repository is Dashboard of all the programs / case studies / Projects / Com
 * [ Action Survival Game using pure Html Css Js with deployment](https://github.com/SahilSK202/Action-Game)
 
 
-## Data Structures
+## Data Structures and Algorithms
 * [ Implementation of all Data Structures in C  ](https://github.com/SahilSK202/Data_Structures_using_C)
 * [ Implementation of all Data Structures in Python  ](https://github.com/SahilSK202/Data_Structures_using_Python)
 
