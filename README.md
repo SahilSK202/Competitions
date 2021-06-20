@@ -6,7 +6,7 @@ This repository is Dashboard of all the programs / case studies / Projects / Com
 * [ Libraries for Data Science ](https://github.com/SahilSK202/Libraries_for_Data_Science) 📚📔📕📖
 * [ Pokemons - EDA ](https://github.com/SahilSK202/EDA-on-Pokemons)🐔🦄🐺
 * [ Chess Game Result Prediction - End To End ML Project ](https://github.com/SahilSK202/Chess-Game-Result-Prediction)♟👑
-* [ Nifty50 Index Prediction and Forecast - Time Series Analysis ](https://github.com/SahilSK202/Nifty50-Index-Forecasting)📈📊
+* [ Nifty50 Index Prediction and Forecast - Time Series Analysis ](https://github.com/SahilSK202/Nifty50-Index-Dashboard)📈📊
 * [ Crop Recommendation System - End To End ML Project ](https://github.com/SahilSK202/Crop-Recommendation-System)🌲🌴
 
 
