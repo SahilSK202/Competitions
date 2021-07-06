@@ -1,5 +1,4 @@
 # Home
-This repository is Dashboard of all the programs / case studies / Projects / Competitions participated that I have done and cleared successfully.
 
 ## [👉Visit My Portfolio](https://sahilsk202.github.io/Portfolio/) 📑
 
