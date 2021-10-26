@@ -28,6 +28,9 @@
 * [ Basics of DIP - (Pillow & OpenCV) ](https://github.com/SahilSK202/Image-Processing)📸🤳
 
 
+## Flutter Development
+* [ BMI Calculator - Flutter APP ](https://github.com/SahilSK202/BMI_Calculator_Flutter)📱🏋️‍♀️
+
 ## Competitive Programming
 * [ Virus Outbreak (c++) ](https://github.com/SahilSK202/Virus_Outbreak_cp)🦠🦟
 * [ Chess Valid Next Position (python) ](https://github.com/SahilSK202/Chess_Valid_Next_Positon_cp)
