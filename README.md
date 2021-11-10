@@ -30,6 +30,7 @@
 
 ## Flutter Development
 * [ BMI Calculator - Flutter APP ](https://github.com/SahilSK202/BMI_Calculator_Flutter)📱🏋️‍♀️
+* [ HELLO Mnist ](https://github.com/SahilSK202/MNIST_Flutter_Application)0️⃣1️⃣2️⃣...9️⃣
 
 ## Competitive Programming
 * [ Virus Outbreak (c++) ](https://github.com/SahilSK202/Virus_Outbreak_cp)🦠🦟
