@@ -1,4 +1,4 @@
-# Portfolio - 26+ Projects Completed
+# Portfolio: 26+ Projects Completed
 
 **Table of Contents**
 | No. | Category | Projects Count |   
