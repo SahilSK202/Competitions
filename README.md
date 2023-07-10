@@ -1,13 +1,14 @@
-# Portfolio Projects
+# Portfolio - 26 Projects Completed
 
 **Table of Contents**
-
-1. [Data Analysis](#data-analysis)
-2. [Machine Learning](#machine-learning-deep-learning-computer-vision)
-3. [Web Development](#web-development)
-4. [Android Development](#android-development)
-5. [Blockchain Development](#blockchain-development)
-6. [Data Structures and Algorithms](#data-structures-and-algorithms)
+| No. | Category | Projects Count |   
+| --- | ---------------------- | ----------------------------------------------------------|
+| 01. | [Data Analysis](#data-analysis) | 9 |
+| 02. | [Machine Learning DL CV](#machine-learning-deep-learning-computer-vision) |12 |
+| 03. | [Web Development](#web-development) | 8  |
+| 04. | [Android Development](#android-development) | 6  |
+| 05. | [Blockchain Development](#blockchain-development) | 1  |
+| 06. | [Data Structures and Algorithms](#data-structures-and-algorithms) | |
 
 <br>
 <br>
