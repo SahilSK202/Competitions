@@ -1,9 +1,9 @@
-# Portfolio: 26+ Projects Completed
+# Portfolio: 37+ Projects Completed
 
 **Table of Contents**
 | No. | Category | Projects Count |   
 | --- | ---------------------- | ----------------------------------------------------------|
-| 01. | [Data Analysis](#data-analysis) | 9 |
+| 01. | [Data Analysis](#data-analysis) | 10 |
 | 02. | [Machine Learning DL CV](#machine-learning-deep-learning-computer-vision) |12 |
 | 03. | [Web Development](#web-development) | 8  |
 | 04. | [Android Development](#android-development) | 6  |
@@ -20,15 +20,16 @@
 
 | No. | Category | Project |   
 | --- | ---------------------- | ----------------------------------------------------------|
-| 01. | Visualization | [Business Insights 360 PowerBI Dashboard](https://github.com/SahilSK202/Business-Insights-360)  | 
-| 02. | Visualization | [Merchandise Data ](https://github.com/SahilSK202/Merchandise_Data_Visualization) |
-| 03. | EDA | [Ireland Deaths](https://github.com/SahilSK202/EDA_Prediction_Forecast_Ireland_Deaths)  | 
-| 04. | EDA | [Sales Analysis](https://github.com/SahilSK202/Machine_Learning_Engineer_Assignments/tree/main/01.EDA_Sales_Analysis)  | 
-| 05. | EDA | [Retail Sales Analysis](https://github.com/SahilSK202/GRIP_TSF_DS/blob/main/Task2-SalesDataAnalysis.ipynb)  | 
-| 06. | EDA | [Pokemons](https://github.com/SahilSK202/EDA-on-Pokemons)  | 
-| 07. | EDA | [Movies](https://github.com/SahilSK202/Machine_Learning_Engineer_Assignments/tree/main/03.Data_Merge_and_EDA)  |
-| 08. | Web Scrapping | [Ignis Shoes](https://github.com/SahilSK202/Ignis_Shoes_Web_Scrapping_Assignement)  | 
-| 09. | Web Scrapping | [Movies from Wikipedia](https://github.com/SahilSK202/Machine_Learning_Engineer_Assignments/tree/main/02.Data_Scraping) | 
+| 01. | Analysis & Visualization with PPT | [CODEX Marketing Insights F&B Domain PowerBI](https://github.com/SahilSK202/CODEX-Marketing-Insights)  | 
+| 02. | Analysis & Visualization | [Business Insights 360 PowerBI Dashboard](https://github.com/SahilSK202/Business-Insights-360)  | 
+| 03. | Analysis & Visualization | [Merchandise Data ](https://github.com/SahilSK202/Merchandise_Data_Visualization) |
+| 04. | EDA | [Ireland Deaths](https://github.com/SahilSK202/EDA_Prediction_Forecast_Ireland_Deaths)  | 
+| 05. | EDA | [Sales Analysis](https://github.com/SahilSK202/Machine_Learning_Engineer_Assignments/tree/main/01.EDA_Sales_Analysis)  | 
+| 06. | EDA | [Retail Sales Analysis](https://github.com/SahilSK202/GRIP_TSF_DS/blob/main/Task2-SalesDataAnalysis.ipynb)  | 
+| 07. | EDA | [Pokemons](https://github.com/SahilSK202/EDA-on-Pokemons)  | 
+| 08. | EDA | [Movies](https://github.com/SahilSK202/Machine_Learning_Engineer_Assignments/tree/main/03.Data_Merge_and_EDA)  |
+| 09. | Web Scrapping | [Ignis Shoes](https://github.com/SahilSK202/Ignis_Shoes_Web_Scrapping_Assignement)  | 
+| 10. | Web Scrapping | [Movies from Wikipedia](https://github.com/SahilSK202/Machine_Learning_Engineer_Assignments/tree/main/02.Data_Scraping) | 
 
 <details>
 <summary>
